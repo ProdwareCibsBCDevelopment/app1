@@ -2,5 +2,6 @@
   "country": "base",
   "appFolders": [],
   "testFolders": [],
-  "bcptTestFolders": []
+  "bcptTestFolders": [],
+  "gitHubRunner": "self-hosted"
 }
