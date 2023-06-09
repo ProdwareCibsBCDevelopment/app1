@@ -3,5 +3,6 @@
   "appFolders": [],
   "testFolders": [],
   "bcptTestFolders": [],
+  "runs-on": "self-hosted",
   "gitHubRunner": "self-hosted"
 }
